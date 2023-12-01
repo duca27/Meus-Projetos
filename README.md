@@ -7,7 +7,8 @@ Jogo de adivinhação, onde o usuário precisa adivinhar o "número secreto"
 | :sparkles: Nome        | **logica-js-projeto_inicial**
 | :label: Tecnologias | javascript
 | :rocket: URL         | [https://url-deploy.com.br](http://127.0.0.1:5500/index.html)
-| :fire: Desafio     | alert('Saudações terráqueos');
+| :fire: Desafio     | Descubra o número secreto
+alert('Saudações terráqueos');
 let numeroMáximo = 9000
 let numeroSecreto = parseInt (Math.random() * numeroMáximo + 1);
 console.log(numeroSecreto);
