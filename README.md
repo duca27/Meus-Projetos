@@ -1,4 +1,4 @@
-# Primeira vez programando
+# logica-js-projeto_inicial
 
 Jogo de adivinhação, onde o usuário precisa adivinhar o "número secreto"
 
@@ -31,5 +31,5 @@ let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
 alert(`Isso aí! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} ${palavraTentativa}`);
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![jogo1](https://github.com/duca27/Meus-Projetos/assets/152569671/d6f9d0a4-52f3-4e19-950e-127a572762f4)
 
